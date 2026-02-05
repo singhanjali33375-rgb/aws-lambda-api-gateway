@@ -1,0 +1,4 @@
+lambda_function/
+├── lambda_handler.py
+├── requirements.txt
+└── __init__.py
