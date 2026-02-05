@@ -23,3 +23,28 @@ aws-lambda-serverless-api/
 ├── events/
 ├── policy/
 └── README.md
+⚙️ Prerequisites
+AWS Account
+AWS CLI configured
+Basic knowledge of Lambda & API Gateway
+🧪 Lambda Function Example
+The function receives an HTTP request and returns a JSON response.
+🚀 Deployment Steps (Manual)
+Create Lambda function
+Upload function code
+Attach IAM role
+Configure API Gateway trigger
+Test endpoint
+📊 Monitoring
+Logs available in AWS CloudWatch
+Metrics for invocation and execution time
+📈 Future Enhancements
+Add DynamoDB integration
+CI/CD using GitHub Actions
+Terraform or SAM deployment
+👩‍💻 Author
+Anjali Singh
+📜 License
+MIT License
+implemented a serverless application using AWS Lambda integrated with API Gateway. The function handles HTTP requests, uses IAM for permissions, and logs execution details to CloudWatch.
+• Built a serverless backend using AWS Lambda and API Gateway with IAM-based security and CloudWatch monitoring.
